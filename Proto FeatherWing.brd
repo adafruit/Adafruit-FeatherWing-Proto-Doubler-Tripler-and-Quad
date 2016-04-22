@@ -302,21 +302,17 @@
 <libraries>
 <library name="microbuilder">
 <packages>
-<package name="MICROSHIELD_DIM">
-<wire x1="2.54" y1="0" x2="48.26" y2="0" width="0" layer="21"/>
-<wire x1="48.26" y1="0" x2="50.8" y2="2.54" width="0" layer="21" curve="90"/>
-<wire x1="50.8" y1="2.54" x2="50.8" y2="20.32" width="0" layer="21"/>
-<wire x1="50.8" y1="20.32" x2="48.26" y2="22.86" width="0" layer="21" curve="90"/>
-<wire x1="48.26" y1="22.86" x2="2.54" y2="22.86" width="0" layer="21"/>
-<wire x1="2.54" y1="22.86" x2="0" y2="20.32" width="0" layer="21" curve="90"/>
-<wire x1="0" y1="20.32" x2="0" y2="13.716" width="0" layer="21"/>
-<wire x1="0" y1="13.716" x2="0.508" y2="13.208" width="0" layer="21"/>
-<wire x1="0.508" y1="13.208" x2="0.508" y2="9.652" width="0" layer="21"/>
-<wire x1="0.508" y1="9.652" x2="0" y2="9.144" width="0" layer="21"/>
-<wire x1="0" y1="9.144" x2="0" y2="2.54" width="0" layer="21"/>
-<wire x1="0" y1="2.54" x2="2.54" y2="0" width="0" layer="21" curve="90"/>
+<package name="FEATHERWING">
+<wire x1="2.54" y1="0" x2="48.26" y2="0" width="0" layer="20"/>
+<wire x1="48.26" y1="0" x2="50.8" y2="2.54" width="0" layer="20" curve="90"/>
+<wire x1="50.8" y1="2.54" x2="50.8" y2="20.32" width="0" layer="20"/>
+<wire x1="50.8" y1="20.32" x2="48.26" y2="22.86" width="0" layer="20" curve="90"/>
+<wire x1="48.26" y1="22.86" x2="2.54" y2="22.86" width="0" layer="20"/>
+<wire x1="2.54" y1="22.86" x2="0" y2="20.32" width="0" layer="20" curve="90"/>
+<wire x1="0" y1="20.32" x2="0" y2="2.54" width="0" layer="20"/>
+<wire x1="0" y1="2.54" x2="2.54" y2="0" width="0" layer="20" curve="90"/>
 <hole x="48.26" y="20.32" drill="2.54"/>
-<hole x="48.514" y="2.286" drill="2.54"/>
+<hole x="48.26" y="2.54" drill="2.54"/>
 <pad name="P$1" x="2.54" y="20.32" drill="2.5" diameter="3.81"/>
 <pad name="P$2" x="2.54" y="2.54" drill="2.5" diameter="3.81"/>
 <pad name="28" x="16.51" y="21.59" drill="1" diameter="1.778"/>
@@ -579,7 +575,7 @@ einem neuen Namen ab.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="MS1" library="microbuilder" package="MICROSHIELD_DIM" value="MICROSHIELD_NODIM" x="0" y="0"/>
+<element name="MS1" library="microbuilder" package="FEATHERWING" value="FEATHERWING" x="0" y="0"/>
 <element name="JP3" library="microbuilder" package="1X16_ROUND_76MIL" value="" x="25.4" y="3.81" rot="R180"/>
 <element name="JP1" library="microbuilder" package="1X12_ROUND_76MIL" value="" x="30.48" y="19.05"/>
 </elements>
