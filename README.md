@@ -3,6 +3,7 @@
 <a href="http://www.adafruit.com/products/2884"><img src="assets/2884.jpg?raw=true" width="500px"><br/>
 <a href="http://www.adafruit.com/products/2890"><img src="assets/2890.jpg?raw=true" width="400px"></a><br/>
 <a href="http://www.adafruit.com/products/3417"><img src="assets/3417.jpg?raw=true" width="400px"></a>&nbsp; 
+
 Click the picture or one of the links below to purchase from the Adafruit shop
 
 PCB files for the Adafruit Feather Wing Proto, Doubler, and Tripler
@@ -15,20 +16,20 @@ Click to order the boards of your choice
 
 ### Description
 
-These are the FeatherWing Proto, Doubler, and Tripler - prototyping add-ons for all Feather boards. Using our Feather Stacking Headers or Feather Female Headers you can connect a FeatherWing on top or bottom of your Feather board and let the board take flight! Additionally the Doubler and Tripler have Two and Three prototyping areas respectively. The magic of the Doubler and Tripler comes when stacking a Feather and another board on top of the one of them so you can work with both boards simultaneously side-by-side!
+These are the FeatherWing Proto, Doubler, and Tripler - prototyping add-ons for all Feather boards. Using our [Feather Stacking Headers](https://www.adafruit.com/products/2830) or [Feather Female Headers](http://www.adafruit.com/products/2886) you can connect a FeatherWing on top or bottom of your Feather board and let the board take flight! Additionally the Doubler and Tripler have Two and Three prototyping areas respectively. The magic of the Doubler and Tripler comes when stacking a Feather and another board on top of the one of them so you can work with both boards simultaneously side-by-side!
 
-These boards havea duplicate breakouts for each pin on a Feather, as well as a bunch of plain grid proto holes. For GND and 3.3V, we give you a strip of connected pads. There's plenty of room for buttons, indicator LEDs, or anything for your portable project. The FeatherWing Proto, Doubler, and Tripler  make ideal partners for any of our Feather boards.
+These boards havea duplicate breakouts for each pin on a Feather, as well as a bunch of plain grid proto holes. **For the Doubler and Triper the sets of Feather pins are cross connected** and For GND and 3.3V, we give you a strip of connected pads. There's plenty of room for [buttons](https://www.adafruit.com/categories/235), [indicator LEDs](https://www.adafruit.com/categories/90), or anything for your portable project. The FeatherWing Proto, Doubler, and Tripler  make ideal partners for any of our Feather boards.
 
 In addition to the PCB, the Doubler and Tripler come with 
 
 * Doubler
-	* 1 set Feather Stacking Headers (you can cut these down after soldering so they aren't stacking-style if you want a slimmer build)
-	* 1 set Feather Female Headers
+	* 1 set [Feather Stacking Headers (you can cut these down after soldering so they aren't stacking-style if you want a slimmer build)](https://www.adafruit.com/products/2830)
+	* 1 set [Feather Female Headers](http://www.adafruit.com/products/2886)
 
 * Tripler
 	* 3 sets Feather Female Headers
 
-You'll need to solder on the female headers to the PCB, the Doubler and Tripler come as mini kits!
+**You'll need to solder on the headers to the PCB**, the Doubler and Tripler come as mini kits!
 
 [Check out our range of Feather boards here.](https://www.adafruit.com/feather)
 
