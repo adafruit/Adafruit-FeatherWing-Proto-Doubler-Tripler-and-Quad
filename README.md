@@ -1,6 +1,6 @@
 ## FeatherWing Proto, Doubler, and Tripler PCBs
 
-<a href="http://www.adafruit.com/products/2884"><img src="assets/2884.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/2884"><img src="assets/2884.jpg?raw=true" width="500px"><
 <a href="http://www.adafruit.com/products/2890"><img src="assets/2890.jpg?raw=true" width="400px"></a><br/>
 <a href="http://www.adafruit.com/products/3417"><img src="assets/3417.jpg?raw=true" width="400px"></a>&nbsp; 
 
