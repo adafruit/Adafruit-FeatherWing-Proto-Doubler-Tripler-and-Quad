@@ -1,4 +1,4 @@
-## FeatherWing Proto, Doubler, and Tripler PCBs
+## FeatherWing Proto, Doubler, Tripler and Quad PCBs
 
 <a href="http://www.adafruit.com/products/2884"><img src="assets/2884.jpg?raw=true" width="400px"></a><br/>
 <a href="http://www.adafruit.com/products/2890"><img src="assets/2890.jpg?raw=true" width="400px"></a><br/>
